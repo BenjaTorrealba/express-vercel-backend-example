@@ -1,0 +1,68 @@
+[
+    {
+        "nombre": "Procesador Intel® Core™ i3-12100 Alder Lake, LGA1700, 4-Core / 8-Threads, 3.3/4.3 GHz",
+        "precio": "$144.990",
+        "imagen": "/img/i3.png",
+        "categoria": "procesadores"
+    },
+    {
+        "nombre": "Procesador Intel® Core™ i5-12400F, 2.5GHz, Socket LGA 1700, 6-Core / 12-Threads, Sin Gráficos",
+        "precio": "$229.560",
+        "imagen": "/img/i5.png",
+        "categoria": "procesadores"
+    },
+    {
+        "nombre": "Procesador Intel® Core™ i7-12700K, 12º Gen 3.6GHz (Hasta 5.0GHz), Socket LGA1700, con Gráficas",
+        "precio": "$402.320",
+        "imagen": "/img/i7.png",
+        "categoria": "procesadores"
+    },
+    {
+        "nombre": "Tarjeta de Video MSI Nvidia® GeForce® RTX™ 4060 VENTUS 2X Black OC, 8GB GDDR6, 128-bit, PCI-e 4.0",
+        "precio": "$369.990",
+        "imagen": "/img/rtx4060.png",
+        "categoria": "tarjeta de videos"
+    },    
+    {
+        "nombre": "Tarjeta de Video ZOTAC GAMING GeForce RTX 4070 SUPER Twin Edge, 12GB GDDR6X, 192-bit, PCI-e 4.0",
+        "precio": "$729.990",
+        "imagen": "/img/rtx4070.png",
+        "categoria": "tarjeta de videos"
+    },
+    {
+        "nombre": "Tarjeta de Video MSI NVIDIA® GeForce RTX™ 3050 LP 6G OC, 14 Gbps, 6GB GDDR6, 96-bit, Low Profile",
+        "precio": "$194.990",
+        "imagen": "/img/rtx3050.png",
+        "categoria": "tarjeta de videos"
+    },
+    {
+        "nombre": "Tarjeta de Video GIGABYTE Radeon RX 7700 XT GAMING OC, 12GB GDDR6, 192-bit, PCI-e 4.0",
+        "precio": "$556.190",
+        "imagen": "/img/rx7700XT.png",
+        "categoria": "tarjeta de videos"
+    },
+    {
+        "nombre": "Tarjeta de Video ASUS Dual GeForce RTX 3060 White OC Edition, 12GB GDDR6, 192-bit, PCIe 4.0",
+        "precio": "$354.990",
+        "imagen": "/img/rtx3060.png",
+        "categoria": "tarjeta de videos"
+    },
+    {
+        "nombre": "Notebook Gamer Lenovo Gaming 3, Intel Core I5,  8Gb Ram, 512Gb ssd,  15.6 FHD,  Nvidia gtx1650",
+        "precio": "$549.990",
+        "imagen": "/img/note1.png",
+        "categoria": "notebooks"
+    },
+    {
+        "nombre": "Notebook Gamer Acer Nitro 5 AN515-58-50DD-1,  Intel Core I5, 16Gb Ram, 512GB ssd,  15.6 FHD, Nvidia gtx3050",
+        "precio": "$669.560",
+        "imagen": "/img/note2.png",
+        "categoria": "notebooks"
+    },
+    {
+        "nombre": "Notebook Gamer HP Victus 16-D0514LA, Intel Core I5, 8Gb Ram,  512Gb ssd, 16.1 FHD, Nvidia Rtx3060",
+        "precio": "$929.320",
+        "imagen": "/img/note3.png",
+        "categoria": "notebooks"
+    }  
+]
