@@ -1,0 +1,32 @@
+[
+    {
+        "Lunes": {
+            "open": "09:00",
+            "close": "18:00"
+        },
+        "Martes": {
+            "open": "09:00",
+            "close": "18:00"
+        },
+        "Miércoles": {
+            "open": "09:00",
+            "close": "18:00"
+        },
+        "Jueves": {
+            "open": "09:00",
+            "close": "18:00"
+        },
+        "Viernes": {
+            "open": "09:00",
+            "close": "18:00"
+        },
+        "Sábado": {
+            "open": "10:00",
+            "close": "16:00"
+        },
+        "Domingo": {
+            "open": "12:00",
+            "close": "16:00"
+        }
+    }
+]
