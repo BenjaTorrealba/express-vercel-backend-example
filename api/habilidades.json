@@ -1,0 +1,74 @@
+[
+    {
+      "nombre": "Acrobacias",
+      "descripcion": "Sirve para realizar maniobras de equilibrio, saltos y piruetas."
+    },
+    {
+      "nombre": "Atletismo",
+      "descripcion": "Sirve para actividades físicas como correr, trepar, nadar y saltar largas distancias."
+    },
+    {
+      "nombre": "Conocimiento Arcano",
+      "descripcion": "Permite identificar y comprender elementos mágicos, como hechizos y artefactos."
+    },
+    {
+      "nombre": "Engaño",
+      "descripcion": "Ayuda a mentir, ocultar la verdad o engañar a otros con palabras o acciones."
+    },
+    {
+      "nombre": "Historia",
+      "descripcion": "Permite recordar hechos históricos, leyendas y conocimientos del pasado."
+    },
+    {
+      "nombre": "Interpretación",
+      "descripcion": "Sirve para actuar, tocar instrumentos o entretener a una audiencia."
+    },
+    {
+      "nombre": "Intimidación",
+      "descripcion": "Se usa para forzar a otros a hacer algo mediante amenazas o coacción."
+    },
+    {
+      "nombre": "Investigación",
+      "descripcion": "Ayuda a buscar pistas, deducir patrones o encontrar información específica."
+    },
+    {
+      "nombre": "Juego de Manos",
+      "descripcion": "Sirve para realizar trucos de prestidigitación o robar objetos sin ser notado."
+    },
+    {
+      "nombre": "Medicina",
+      "descripcion": "Permite estabilizar a criaturas heridas o diagnosticar enfermedades."
+    },
+    {
+      "nombre": "Naturaleza",
+      "descripcion": "Ayuda a identificar plantas, animales y fenómenos naturales."
+    },
+    {
+      "nombre": "Percepción",
+      "descripcion": "Se usa para notar detalles importantes, como sonidos, olores o movimientos."
+    },
+    {
+      "nombre": "Perspicacia",
+      "descripcion": "Ayuda a interpretar las intenciones o emociones de otros."
+    },
+    {
+      "nombre": "Persuasión",
+      "descripcion": "Se utiliza para convencer a otros mediante argumentos o encanto."
+    },
+    {
+      "nombre": "Religión",
+      "descripcion": "Permite identificar rituales, deidades y conocimientos religiosos."
+    },
+    {
+      "nombre": "Sigilo",
+      "descripcion": "Ayuda a moverse sin ser detectado o esconderse de forma efectiva."
+    },
+    {
+      "nombre": "Supervivencia",
+      "descripcion": "Se utiliza para orientarse, rastrear criaturas o encontrar comida y refugio."
+    },
+    {
+      "nombre": "Trato con Animales",
+      "descripcion": "Sirve para calmar, entrenar o comunicarse con animales."
+    }
+  ]

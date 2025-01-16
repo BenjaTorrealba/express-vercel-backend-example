@@ -1,0 +1,139 @@
+[
+    {
+      "nombre": "Guerrero",
+      "atributos_clave": [
+        "Fuerza",
+        "Constitución"
+      ],
+      "características": [
+        "Versátil en combate",
+        "Competente con todas las armas y armaduras"
+      ],
+      "descripcion": "El Guerrero es una clase enfocada en el combate físico. Se juega como un experto en armas y tácticas de batalla, capaz de adaptarse a diferentes roles en el campo de batalla, desde un tanque que absorbe daño hasta un atacante poderoso."
+    },
+    {
+      "nombre": "Mago",
+      "atributos_clave": [
+        "Inteligencia"
+      ],
+      "características": [
+        "Mayor variedad de hechizos",
+        "Recuperación Arcana"
+      ],
+      "descripcion": "El Mago se juega como un maestro de la magia, utilizando su gran repertorio de hechizos para controlar el campo de batalla, infligir daño y ofrecer soporte con magia estratégica."
+    },
+    {
+      "nombre": "Clérigo",
+      "atributos_clave": [
+        "Sabiduría"
+      ],
+      "características": [
+        "Sanación",
+        "Conjuros divinos"
+      ],
+      "descripcion": "El Clérigo es un canalizador de poderes divinos, jugado como sanador y protector del grupo. También puede lanzar poderosos conjuros ofensivos según su dominio elegido."
+    },
+    {
+      "nombre": "Pícaro",
+      "atributos_clave": [
+        "Destreza"
+      ],
+      "características": [
+        "Ataque furtivo",
+        "Especialista en sigilo"
+      ],
+      "descripcion": "El Pícaro se juega como un personaje ágil y estratégico, experto en ataques furtivos y en explotar la debilidad de los enemigos. Ideal para quienes disfrutan del sigilo y el ingenio."
+    },
+    {
+      "nombre": "Paladín",
+      "atributos_clave": [
+        "Fuerza",
+        "Carisma"
+      ],
+      "características": [
+        "Imposición de Manos",
+        "Juramentos sagrados"
+      ],
+      "descripcion": "El Paladín combina combate físico y magia divina. Se juega como un protector del grupo, sanador y poderoso luchador que sigue estrictos juramentos sagrados."
+    },
+    {
+      "nombre": "Bárbaro",
+      "atributos_clave": [
+        "Fuerza",
+        "Constitución"
+      ],
+      "características": [
+        "Furia",
+        "Alta resistencia física"
+      ],
+      "descripcion": "El Bárbaro es un luchador feroz que se especializa en causar gran daño cuerpo a cuerpo y resistir golpes. Se juega como un personaje directo y brutal, con habilidades para entrar en un estado de furia que mejora sus capacidades."
+    },
+    {
+      "nombre": "Druida",
+      "atributos_clave": [
+        "Sabiduría"
+      ],
+      "características": [
+        "Cambio de Forma",
+        "Magia de la naturaleza"
+      ],
+      "descripcion": "El Druida se juega como un guardián de la naturaleza, capaz de lanzar magia poderosa y transformarse en animales para adaptarse a diferentes situaciones en combate y exploración."
+    },
+    {
+      "nombre": "Hechicero",
+      "atributos_clave": [
+        "Carisma"
+      ],
+      "características": [
+        "Metamagia",
+        "Poder innato"
+      ],
+      "descripcion": "El Hechicero utiliza magia innata, lo que lo hace más flexible en su uso de hechizos. Se juega como un lanzador de magia ofensiva o de soporte con capacidades únicas para modificar conjuros mediante metamagia."
+    },
+    {
+      "nombre": "Brujo",
+      "atributos_clave": [
+        "Carisma"
+      ],
+      "características": [
+        "Pacto con entidades",
+        "Magia limitada pero poderosa"
+      ],
+      "descripcion": "El Brujo es un lanzador de magia que obtiene sus poderes a través de pactos con entidades sobrenaturales. Se juega como un personaje estratégico con conjuros de gran impacto y habilidades únicas de su pacto."
+    },
+    {
+      "nombre": "Bardo",
+      "atributos_clave": [
+        "Carisma"
+      ],
+      "características": [
+        "Inspiración de Bardo",
+        "Versatilidad en habilidades y magia"
+      ],
+      "descripcion": "El Bardo es una clase versátil que mezcla magia, habilidades y apoyo al grupo. Se juega como un personaje flexible que puede inspirar aliados, lanzar hechizos y destacarse en diversas situaciones."
+    },
+    {
+      "nombre": "Monje",
+      "atributos_clave": [
+        "Destreza",
+        "Sabiduría"
+      ],
+      "características": [
+        "Puntos de Ki",
+        "Combate ágil"
+      ],
+      "descripcion": "El Monje es un combatiente ágil y autodisciplinado que usa técnicas marciales y energía Ki. Se juega como un luchador móvil y versátil, capaz de realizar maniobras rápidas y precisas."
+    },
+    {
+      "nombre": "Artífice",
+      "atributos_clave": [
+        "Inteligencia"
+      ],
+      "características": [
+        "Infusiones mágicas",
+        "Creación de objetos mágicos"
+      ],
+      "descripcion": "El Artífice es un inventor y creador de objetos mágicos. Se juega como un personaje de soporte que mejora las capacidades del grupo mediante sus creaciones e infusiones mágicas."
+    }
+  ]
+  

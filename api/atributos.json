@@ -1,0 +1,32 @@
+[
+    {
+      "nombre": "Fuerza",
+      "descripcion": "Capacidad física y potencia",
+      "valor": 10
+    },
+    {
+      "nombre": "Destreza",
+      "descripcion": "Agilidad, reflejos y coordinación",
+      "valor": 10
+    },
+    {
+      "nombre": "Constitución",
+      "descripcion": "Resistencia y salud",
+      "valor": 10
+    },
+    {
+      "nombre": "Inteligencia",
+      "descripcion": "Capacidad de razonamiento y aprendizaje",
+      "valor": 10
+    },
+    {
+      "nombre": "Sabiduría",
+      "descripcion": "Percepción y sentido común",
+      "valor": 10
+    },
+    {
+      "nombre": "Carisma",
+      "descripcion": "Personalidad y magnetismo",
+      "valor": 10
+    }
+   ]

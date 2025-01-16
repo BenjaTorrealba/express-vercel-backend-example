@@ -1,0 +1,58 @@
+[
+    {
+      "nombre": "Humano",
+      "atributos": "+1 a todos los atributos (o +1 a dos atributos y una competencia extra con la variante)",
+      "características": [
+        "Versátiles y adaptables",
+        "Idiomas: Común y uno adicional"
+      ]
+    },
+    {
+      "nombre": "Elfo",
+      "atributos": "+2 Destreza"
+    },
+    {
+      "nombre": "Enano",
+      "atributos": "+2 Constitución"
+    },
+    {
+      "nombre": "Mediano",
+      "atributos": "+2 Destreza"
+    },
+    {
+      "nombre": "Gnomo",
+      "atributos": "+2 Inteligencia"
+    },
+    {
+      "nombre": "Semielfo",
+      "atributos": "+2 Carisma, +1 a dos atributos a elección",
+      "características": [
+        "Versatilidad",
+        "Competencia en dos habilidades a elección"
+      ]
+    },
+    {
+      "nombre": "Semiorco",
+      "atributos": "+2 Fuerza, +1 Constitución",
+      "características": [
+        "Implacable",
+        "Resistencia física"
+      ]
+    },
+    {
+      "nombre": "Tiefling",
+      "atributos": "+2 Carisma, +1 Inteligencia",
+      "características": [
+        "Resistencia al fuego",
+        "Magia innata infernal"
+      ]
+    },
+    {
+      "nombre": "Dracónido",
+      "atributos": "+2 Fuerza, +1 Carisma",
+      "características": [
+        "Aliento de dragón",
+        "Resistencia a un tipo de daño según su ascendencia"
+      ]
+    }
+  ]
